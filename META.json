@@ -1,0 +1,64 @@
+{
+  "category": "monitoring",
+  "created_date": "2025-09-15T22:48:58.770426",
+  "default_ports": [
+    80,
+    443,
+    9100
+  ],
+  "dependencies": [
+    "nodejs",
+    "npm"
+  ],
+  "description": "node-exporter is a free and open-source Prometheus exporter for hardware and OS metrics. Node Exporter exposes hardware and kernel-related metrics for *NIX systems, essential for system monitoring with Prometheus",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/monitoring/prometheus-node-exporter",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/monitoring/prometheus-node-exporter",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.770446",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "prometheus-node-exporter",
+  "repository_url": "https://github.com/howtomgr/prometheus-node-exporter",
+  "spec_version": "2.0",
+  "subcategory": "monitoring",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "monitoring",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "node-exporter Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/monitoring/prometheus-node-exporter"
+}
